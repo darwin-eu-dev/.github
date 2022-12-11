@@ -4,7 +4,7 @@ This darwin-eu-dev organisation contains all the analytical packages that are un
 
 Public repositories in the darwin-eu-dev are forked repositories from external organisations the Coordination Center is contributingn to. These are mainly repositories from OHDSI (www.ohdsi.org)
 
-For released code by the DARWIN EU Coordination Center visit https://github.com/darwin-eu organisation.
+For released code by the DARWIN EU Coordination Center visit the https://github.com/darwin-eu organisation.
 
 
 More information: enquiries@darwin-eu.org
